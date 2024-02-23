@@ -1,5 +1,5 @@
 # program to get user input
-# Dare 20/02/2024
+# Date 20/02/2024
 # Name : Xphlemy Bosco
 
 f_name = input("Enter your first name") 
