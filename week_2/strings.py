@@ -49,3 +49,13 @@ age = 20
 height = 1.6
 
 print("I am  {0} years old  and {1} meters tall"  .format(age,height))
+
+activity ="dancing"
+print(" My hobby is %s" %(activity))
+name = "xphlemy"
+print(len(name))
+
+print(f"My full name is {name}")
+
+height = 1.2333484
+print("My height is  %5.4f"%(height))

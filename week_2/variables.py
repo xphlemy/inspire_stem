@@ -17,8 +17,8 @@ Grade = 'A' # use single quotes to designate characters
 
 # Strings : A group of characters.
 
-f_name = 'ian'
-s_name = 'Kimathi'
+f_name = 'xphlemy'
+s_name = 'bosco'
 
 # Name conventions
 # Camel case nameOfCity----> first letter is lowe case the rest are upper case

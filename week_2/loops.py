@@ -15,4 +15,9 @@ for number in range(0,10):
 
 for x in range(0,11):
     print(str(x**2) + "\t ",end=" " ) # squares
-    
+
+
+
+    for name in range(0,6):
+       print ("\t")
+       print("xphlemy bosco")
