@@ -59,3 +59,15 @@ print(f"My full name is {name}")
 
 height = 1.2333484
 print("My height is  %5.4f"%(height))
+
+#printing an integer
+age = 17 
+print("My age is %d " %(age))
+
+print(f"My full name is {name}")
+
+course = "aeronautical"
+school = "engineering"
+
+print("I am studying {0} in the school of {1}" . format(course,school))
+
