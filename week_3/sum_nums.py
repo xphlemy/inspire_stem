@@ -1,6 +1,6 @@
 # a program that gets the sum of the first 20 numbers
 # Date : 26/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 sum_nums =0
 max_value = int(input("Enter the maximum number"))

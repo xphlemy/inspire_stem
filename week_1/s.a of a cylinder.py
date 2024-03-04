@@ -1,6 +1,6 @@
 
 # Date 20/02/2024
-# Name Xphlemy Bosco
+# Name Collins Bosco
 
 pi=3.142
 r=float(input("enter the radius measurement"))

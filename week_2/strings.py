@@ -1,6 +1,6 @@
 # strings in python
 # Date 22/02/2024
-# Name : Xphlemy Bosco
+# Name : Collins Bosco
 
 city ="nairobi"
 
@@ -28,7 +28,7 @@ print(town.strip())
 
 # add two strings
 
-f_name ="Xphlemy"
+f_name ="Collins"
 s_name ="Bosco"
 
 full_name = f_name + s_name
@@ -52,7 +52,7 @@ print("I am  {0} years old  and {1} meters tall"  .format(age,height))
 
 activity ="dancing"
 print(" My hobby is %s" %(activity))
-name = "xphlemy"
+name = "Collins"
 print(len(name))
 
 print(f"My full name is {name}")

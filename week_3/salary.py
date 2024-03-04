@@ -1,6 +1,6 @@
 #
 # Date :26/02/2024
-# Name :xphlemy bosco
+# Name :Collins bosco
 
 
 salary = int(input("Enter current salary"))

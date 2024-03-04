@@ -1,6 +1,6 @@
 # This is a program to deterimine progtession of sequences
 # Date :20/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 a = float(input("enter the first term"))
 d = float(input("enter the common difference"))

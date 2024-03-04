@@ -1,6 +1,6 @@
 # program to get user input
 # Date 20/02/2024
-# Name : Xphlemy Bosco
+# Name : Collins Bosco
 
 f_name = input("Enter your first name") 
 s_name = input("Enter your second name")

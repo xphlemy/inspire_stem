@@ -1,6 +1,6 @@
 
 # Date : 26/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 factorial_nums =1
 max_value = int(input("Enter the maximum number"))

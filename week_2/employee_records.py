@@ -1,6 +1,6 @@
 # Program to show the employee records
 # Date 21/02/2024
-# Name : Xphlemy Bosco
+# Name : Collins Bosco
 
 name = input("Enter name of the employee :")
 age = input("Enter age of employee :")

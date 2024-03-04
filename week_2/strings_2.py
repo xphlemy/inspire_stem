@@ -1,8 +1,8 @@
 # This is a program to print reverse strings
 #Date: 22/02/2024
-#Name: Xphlemy bosco
+#Name: Collins bosco
 
-name = "Xphlemy"
+name = "Collins"
 
 print(name[-1])
 print(name[-2])

@@ -1,6 +1,6 @@
 # This is a program to generate the terms and sum in geometric progression
 # Date :20/02/2024
-# Name Xphlemy Bosco
+# Name Collins Bosco
 
 a =float(input("enter the first term"))
 r =float(input("enter the common ratio"))

@@ -1,6 +1,6 @@
 # program to solve the quadratic equation
 # Date :20/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 import math
 a =float(input("Enter the coefficient of the first term : "))
 b =float(input("Enter the coefficient of the second term : "))

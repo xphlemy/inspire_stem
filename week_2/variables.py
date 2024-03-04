@@ -1,6 +1,6 @@
 # Data types in python
 # Date : 21/02/2024
-# Name : Xphlemy Bosco
+# Name : Collins Bosco
 
 # Integer are positive / negative whole numbers
 

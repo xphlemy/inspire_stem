@@ -1,6 +1,6 @@
 # this is a program to calculate pascal using loops
 # date 22/02/2024
-# name Xphlemy Bosco
+# name Collins Bosco
 
 
 

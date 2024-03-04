@@ -1,6 +1,6 @@
 # Simple calculator program
 # Date :20/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 
 (f_number) = input("Enter the first number : ")

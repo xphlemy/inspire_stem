@@ -1,6 +1,6 @@
 #This is a program 
 #Date 22/02/2024
-#Name Xphlemy Bosco
+#Name Collins Bosco
 
 
 name = input("Enter string: ")

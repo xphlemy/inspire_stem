@@ -1,6 +1,6 @@
 # This is a program thta gets the modulus of numbers 
 # Date : 20/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 first_number = 7
 second_number = 2

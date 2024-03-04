@@ -1,6 +1,6 @@
 # program for while loops 
 # Date :27/02/2024
-# Name :xphlemy bosco
+# Name :Collins bosco
 
 x = 1
 while x < 10 :

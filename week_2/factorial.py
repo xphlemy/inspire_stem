@@ -1,6 +1,6 @@
 # This is a program that factorizes numbers
 #Date:22/02/2024
-#Name: Xphlemy Bosco
+#Name: Collins Bosco
 
 
 num = int(input("Enter a number to find the factorial: "))

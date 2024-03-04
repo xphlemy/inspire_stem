@@ -1,6 +1,6 @@
 
 # Date : 20/03/2024
-# Name : Xphlemy Bosco
+# Name : Collins Bosco
 
 d =float(input("enter the deposit"))
 i =float(input("enter the amount paid in each instalment"))

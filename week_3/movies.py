@@ -1,6 +1,6 @@
 # my list of movies
 # Date:27/02/2024
-# Name : xphlemy Bosco
+# Name : Collins Bosco
 
 
 movies = ["one warrior","impastor","knock knock","excuse me miss","final destination"]

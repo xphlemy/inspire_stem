@@ -1,6 +1,6 @@
 # This is a programme to show how to perform arithmetic operations
 # Date :15/02/2024
-# Name :Xphlemy Bosco
+# Name :Collins Bosco
 
 
 first_number = 15

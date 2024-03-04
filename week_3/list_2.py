@@ -1,6 +1,6 @@
 #
 # Date :28/02/2024
-# Name :xphlemy bosco
+# Name :Collins bosco
  
 friends = ["Moghul","Jane","Ritah","Kamau","Njoroge", "mr bills"]
 
