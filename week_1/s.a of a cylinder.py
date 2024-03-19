@@ -1,8 +1,8 @@
 
 # Date 20/02/2024
-# Name Collins Bosco
+# Name Xphlemy Bosco
 
-pi=3.142
+pi=3.1426
 r=float(input("enter the radius measurement"))
 d =r*2
 h =float(input("enter the hight value"))

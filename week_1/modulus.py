@@ -1,6 +1,6 @@
 # This is a program thta gets the modulus of numbers 
 # Date : 20/02/2024
-# Name :Collins Bosco
+# Name :Xphlemy Bosco
 
 first_number = 7
 second_number = 2
@@ -16,6 +16,6 @@ print(2 **3)
 # >> right shift by a number is equivalent to dividing by 2 raised to the power of the number
 print(20 >> 2)
 print(20 >> 1)
-# << left shift by number is equivalent to multyplying a number
+# << left shift by number is equivalent to multyplying by 2 raised to the power of the number
 print(20 << 2)
 print(20 << 1)

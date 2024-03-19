@@ -1,6 +1,6 @@
 # program for while loops 
 # Date :27/02/2024
-# Name :Collins bosco
+# Name :xphlemy bosco
 
 x = 1
 while x < 10 :
@@ -12,8 +12,3 @@ while x < 10 :
     x = x + 1
     print (x)
 
-x = 2 # integer
-h = 6.8909 # float
-
-print(float(x))
-print(int(h))
