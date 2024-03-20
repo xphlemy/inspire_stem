@@ -11,4 +11,3 @@ while x < 10 :
         continue
     x = x + 1
     print (x)
-
